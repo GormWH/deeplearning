@@ -1,4 +1,4 @@
 init epoch=100, eps=1    score=0.7289
 1 epoch=100, eps=1~0.1 score=0.8126
-2 epoch=200, eps=1~0.1 score=
+2 epoch=200, eps=1~0.1 score=0.8256
 3 epoch=300, eps=1~0.1 score=
